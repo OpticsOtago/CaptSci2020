@@ -15,7 +15,7 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/assets/images/header_bg.jpg");
+    background-image: url("../images/header_bg.jpg");
     margin:0;
     padding: 30px;
 }
